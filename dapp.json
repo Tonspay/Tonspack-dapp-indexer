@@ -13,7 +13,7 @@
             "url":"https://t.me/Tonspack_bot/gate?startapp=5k2tWE6P7gju7xaFZ7nRdmHLE7dQAsiJtXpRk6Na"
         },
         {
-            "icon":"/images/chains/sol.svg",
+            "icon":"/images/logo.png",
             "name":"SDKMiniDemo",
             "tag":"minidemo",
             "url":"http://t.me/tonspack_bot/minidemo"
@@ -21,7 +21,7 @@
     ],
     "ton":[
         {
-            "icon":"/images/chains/sol.svg",
+            "icon":"/images/logo.png",
             "name":"SDKMiniDemo",
             "tag":"minidemo",
             "url":"http://t.me/tonspack_bot/minidemo"
@@ -29,7 +29,7 @@
     ],
     "42161":[
         {
-            "icon":"/images/chains/sol.svg",
+            "icon":"/images/logo.png",
             "name":"SDKMiniDemo",
             "tag":"minidemo",
             "url":"http://t.me/tonspack_bot/minidemo"
@@ -37,7 +37,7 @@
     ],
     "tron":[
         {
-            "icon":"/images/chains/sol.svg",
+            "icon":"/images/logo.png",
             "name":"SDKMiniDemo",
             "tag":"minidemo",
             "url":"http://t.me/tonspack_bot/minidemo"
@@ -45,7 +45,7 @@
     ],
     "btc":[
         {
-            "icon":"/images/chains/sol.svg",
+            "icon":"/images/logo.png",
             "name":"SDKMiniDemo",
             "tag":"minidemo",
             "url":"http://t.me/tonspack_bot/minidemo"
@@ -53,7 +53,7 @@
     ],
     "1":[
         {
-            "icon":"/images/chains/sol.svg",
+            "icon":"/images/logo.png",
             "name":"SDKMiniDemo",
             "tag":"minidemo",
             "url":"http://t.me/tonspack_bot/minidemo"
@@ -61,7 +61,7 @@
     ],
     "56":[
         {
-            "icon":"/images/chains/sol.svg",
+            "icon":"/images/logo.png",
             "name":"SDKMiniDemo",
             "tag":"minidemo",
             "url":"http://t.me/tonspack_bot/minidemo"
@@ -69,7 +69,7 @@
     ],
     "8453":[
         {
-            "icon":"/images/chains/sol.svg",
+            "icon":"/images/logo.png",
             "name":"SDKMiniDemo",
             "tag":"minidemo",
             "url":"http://t.me/tonspack_bot/minidemo"
@@ -77,7 +77,7 @@
     ],
     "43114":[
         {
-            "icon":"/images/chains/sol.svg",
+            "icon":"/images/logo.png",
             "name":"SDKMiniDemo",
             "tag":"minidemo",
             "url":"http://t.me/tonspack_bot/minidemo"
@@ -85,7 +85,7 @@
     ],
     "137":[
         {
-            "icon":"/images/chains/sol.svg",
+            "icon":"/images/logo.png",
             "name":"SDKMiniDemo",
             "tag":"minidemo",
             "url":"http://t.me/tonspack_bot/minidemo"
@@ -93,7 +93,7 @@
     ],
     "10":[
         {
-            "icon":"/images/chains/sol.svg",
+            "icon":"/images/logo.png",
             "name":"SDKMiniDemo",
             "tag":"minidemo",
             "url":"http://t.me/tonspack_bot/minidemo"
