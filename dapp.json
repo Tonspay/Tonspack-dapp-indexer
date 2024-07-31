@@ -14,7 +14,7 @@
         },
         {
             "icon":"/images/logo.png",
-            "name":"SDKMiniDemo",
+            "name":"MiniDemo",
             "tag":"minidemo",
             "url":"http://t.me/tonspack_bot/minidemo"
         }
@@ -22,7 +22,7 @@
     "ton":[
         {
             "icon":"/images/logo.png",
-            "name":"SDKMiniDemo",
+            "name":"MiniDemo",
             "tag":"minidemo",
             "url":"http://t.me/tonspack_bot/minidemo"
         }
@@ -30,7 +30,7 @@
     "42161":[
         {
             "icon":"/images/logo.png",
-            "name":"SDKMiniDemo",
+            "name":"MiniDemo",
             "tag":"minidemo",
             "url":"http://t.me/tonspack_bot/minidemo"
         }
@@ -38,7 +38,7 @@
     "tron":[
         {
             "icon":"/images/logo.png",
-            "name":"SDKMiniDemo",
+            "name":"MiniDemo",
             "tag":"minidemo",
             "url":"http://t.me/tonspack_bot/minidemo"
         }
@@ -46,7 +46,7 @@
     "btc":[
         {
             "icon":"/images/logo.png",
-            "name":"SDKMiniDemo",
+            "name":"MiniDemo",
             "tag":"minidemo",
             "url":"http://t.me/tonspack_bot/minidemo"
         }
@@ -54,7 +54,7 @@
     "1":[
         {
             "icon":"/images/logo.png",
-            "name":"SDKMiniDemo",
+            "name":"MiniDemo",
             "tag":"minidemo",
             "url":"http://t.me/tonspack_bot/minidemo"
         }
@@ -62,7 +62,7 @@
     "56":[
         {
             "icon":"/images/logo.png",
-            "name":"SDKMiniDemo",
+            "name":"MiniDemo",
             "tag":"minidemo",
             "url":"http://t.me/tonspack_bot/minidemo"
         }
@@ -70,7 +70,7 @@
     "8453":[
         {
             "icon":"/images/logo.png",
-            "name":"SDKMiniDemo",
+            "name":"MiniDemo",
             "tag":"minidemo",
             "url":"http://t.me/tonspack_bot/minidemo"
         }
@@ -78,7 +78,7 @@
     "43114":[
         {
             "icon":"/images/logo.png",
-            "name":"SDKMiniDemo",
+            "name":"MiniDemo",
             "tag":"minidemo",
             "url":"http://t.me/tonspack_bot/minidemo"
         }
@@ -86,7 +86,7 @@
     "137":[
         {
             "icon":"/images/logo.png",
-            "name":"SDKMiniDemo",
+            "name":"MiniDemo",
             "tag":"minidemo",
             "url":"http://t.me/tonspack_bot/minidemo"
         }
@@ -94,7 +94,7 @@
     "10":[
         {
             "icon":"/images/logo.png",
-            "name":"SDKMiniDemo",
+            "name":"MiniDemo",
             "tag":"minidemo",
             "url":"http://t.me/tonspack_bot/minidemo"
         }
