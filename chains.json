@@ -11,7 +11,7 @@
         }
     },
     {
-        "id":"42161",
+        "id":"ton",
         "icon":"/images/chains/ton.svg",
         "name":"Ton",
         "symbol":"TON",
@@ -22,7 +22,7 @@
         }
     },
     {
-        "id":"sol",
+        "id":"42161",
         "icon":"/images/chains/arb.svg",
         "name":"Arbitrum One",
         "symbol":"ETH",
